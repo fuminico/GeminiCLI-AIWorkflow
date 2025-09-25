@@ -1,4 +1,4 @@
 {
-  "buildCommand": "yum install -y nspr nss mesa-libgbm && npm run build",
+  "buildCommand": "yum install -y nspr nss mesa-libgbm && npx playwright install chromium && npm run build",
   "outputDirectory": "dist"
 }
