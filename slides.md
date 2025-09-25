@@ -1,8 +1,10 @@
 ---
-theme: 'seriph'
-colorSchema: 'dark'
-layout: 'intro'
-highlighter: 'shiki'
+theme: seriph
+colorSchema: dark
+layout: intro
+highlighter: shiki
+download: true        # ← PDF出力を有効化
+routerMode: hash      # ← Vercel 上でのルーティング不具合防止
 ---
 
 # AIワークフローツール最新情報比較
@@ -17,7 +19,7 @@ Dify vs n8n vs SimAI
 </div>
 
 ---
-layout: 'default'
+layout: default
 ---
 
 # AIワークフローツールとは？
@@ -42,7 +44,7 @@ AIを組み込んだタスクやプロセスを自動化・効率化するため
 </div>
 
 ---
-layout: 'default'
+layout: default
 ---
 
 # 1. Dify
@@ -63,7 +65,7 @@ layout: 'default'
 </div>
 
 ---
-layout: 'default'
+layout: default
 ---
 
 # 2. n8n
@@ -84,7 +86,7 @@ layout: 'default'
 </div>
 
 ---
-layout: 'default'
+layout: default
 ---
 
 # 3. SimAI
@@ -106,7 +108,7 @@ layout: 'default'
 </div>
 
 ---
-layout: 'default'
+layout: default
 ---
 
 # 機能比較まとめ
@@ -120,7 +122,7 @@ layout: 'default'
 | **オープンソース** | <span class="text-green-400 font-bold text-xl">⭕️</span> | <span class="text-green-400 font-bold text-xl">⭕️</span> | <span class="text-red-400 font-bold text-xl">❌</span> |
 
 ---
-layout: 'default'
+layout: default
 ---
 
 # 結論：どのツールを選ぶべきか？
@@ -141,7 +143,7 @@ layout: 'default'
 </div>
 
 ---
-layout: 'intro'
+layout: intro
 ---
 
 # ご清聴ありがとうございました
