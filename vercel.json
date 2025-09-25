@@ -1,4 +1,4 @@
 {
-  "buildCommand": "npx playwright install --with-deps chromium && npm run build",
+  "buildCommand": "PLAYWRIGHT_SKIP_VALIDATE_HOST_REQUIREMENTS=1 npx playwright install chromium && npm run build",
   "outputDirectory": "dist"
 }
