@@ -2,19 +2,15 @@
   "name": "ai-workflow-slides",
   "private": true,
   "scripts": {
-    "build": "slidev build --out dist",
+    "build": "slidev build --base /",
     "dev": "slidev",
     "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "^0.49.0",
-    "@slidev/theme-default": "^0.25.0",
-    "@slidev/theme-seriph": "^0.25.0",
-    "vue": "^3.4.0",
-    "@vitejs/plugin-vue": "^5.0.0",
-    "vite": "^5.0.0"
+    "@slidev/theme-seriph": "^0.25.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": ">=18.0.0"
   }
 }
