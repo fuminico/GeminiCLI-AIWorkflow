@@ -38,7 +38,7 @@ AIを組み込んだタスクやプロセスを自動化・効率化するため
 
 </div>
 <div class="p-4 bg-gray-400/10 rounded-lg">
-<img src="https://i.imgur.com/I674y2E.png" class="rounded-lg shadow-lg">
+<img src="https://images.unsplash.com/photo-1678483749015-a6d5cfc7a3f2?q=80&w=2070&auto=format&fit=crop" class="rounded-lg shadow-lg">
 <p class="text-xs text-center opacity-50 mt-2">A conceptual image of an automated workflow</p>
 </div>
 </div>
@@ -59,8 +59,8 @@ layout: default
       <li><span class="text-purple-300">👥</span> <strong>ターゲット:</strong> AIアプリ開発者、スタートアップ</li>
     </ul>
   </div>
-  <div class="w-1/3 p-4 bg-gray-400 bg-opacity-10 rounded-lg">
-    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/Dify.svg" alt="Dify Logo" class="max-h-40 mx-auto">
+  <div class="w-1/3 p-4 bg-white rounded-lg">
+    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/dify.png" alt="Dify Logo" class="max-h-40 mx-auto">
   </div>
 </div>
 
@@ -80,8 +80,8 @@ layout: default
       <li><span class="text-purple-300">👥</span> <strong>ターゲット:</strong> 開発者、マーケター、業務改善担当者</li>
     </ul>
   </div>
-  <div class="w-1/3 p-4 bg-gray-400 bg-opacity-10 rounded-lg">
-    <img src="https://static.cdnlogo.com/logos/n/75/n8n.svg" alt="n8n Logo" class="max-h-40 mx-auto">
+  <div class="w-1/3 p-4 bg-white rounded-lg">
+    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/n8n.png" alt="n8n Logo" class="max-h-40 mx-auto">
   </div>
 </div>
 
