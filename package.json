@@ -2,7 +2,7 @@
   "name": "ai-workflow-slides",
   "private": true,
   "scripts": {
-    "build": "slidev build --base / --no-meta",
+    "build": "slidev build --base /",
     "dev": "slidev",
     "export": "slidev export"
   },
@@ -10,8 +10,10 @@
     "@slidev/cli": "^0.49.0",
     "@slidev/theme-seriph": "^0.25.0"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=18.0.0"
+  },
+  "slidev": {
+    "meta": false
   }
 }
