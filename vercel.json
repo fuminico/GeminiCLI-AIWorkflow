@@ -1,7 +1,4 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "env": {
-    "NODE_VERSION": "18"
-  }
+  "buildCommand": "npx playwright install-deps && npm run build",
+  "outputDirectory": "dist"
 }
