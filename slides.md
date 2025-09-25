@@ -1,10 +1,8 @@
 ---
-theme: seriph
-colorSchema: dark
-layout: intro
-highlighter: shiki
-download: true        # ← PDF出力を有効化
-routerMode: hash      # ← Vercel 上でのルーティング不具合防止
+theme: 'seriph'
+colorSchema: 'dark'
+layout: 'intro'
+highlighter: 'shiki'
 ---
 
 # AIワークフローツール最新情報比較
@@ -19,7 +17,7 @@ Dify vs n8n vs SimAI
 </div>
 
 ---
-layout: default
+layout: 'default'
 ---
 
 # AIワークフローツールとは？
@@ -38,13 +36,13 @@ AIを組み込んだタスクやプロセスを自動化・効率化するため
 
 </div>
 <div class="p-4 bg-gray-400/10 rounded-lg">
-<img src="https://images.unsplash.com/photo-1678483749015-a6d5cfc7a3f2?q=80&w=2070&auto=format&fit=crop" class="rounded-lg shadow-lg">
+<img src="/workflow.png" class="rounded-lg shadow-lg">
 <p class="text-xs text-center opacity-50 mt-2">A conceptual image of an automated workflow</p>
 </div>
 </div>
 
 ---
-layout: default
+layout: 'default'
 ---
 
 # 1. Dify
@@ -60,12 +58,12 @@ layout: default
     </ul>
   </div>
   <div class="w-1/3 p-4 bg-white rounded-lg">
-    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/dify.png" alt="Dify Logo" class="max-h-40 mx-auto">
+    <img src="/dify.png" alt="Dify Logo" class="max-h-40 mx-auto">
   </div>
 </div>
 
 ---
-layout: default
+layout: 'default'
 ---
 
 # 2. n8n
@@ -81,12 +79,12 @@ layout: default
     </ul>
   </div>
   <div class="w-1/3 p-4 bg-white rounded-lg">
-    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/n8n.png" alt="n8n Logo" class="max-h-40 mx-auto">
+    <img src="/n8n.png" alt="n8n Logo" class="max-h-40 mx-auto">
   </div>
 </div>
 
 ---
-layout: default
+layout: 'default'
 ---
 
 # 3. SimAI
@@ -108,7 +106,7 @@ layout: default
 </div>
 
 ---
-layout: default
+layout: 'default'
 ---
 
 # 機能比較まとめ
@@ -122,7 +120,7 @@ layout: default
 | **オープンソース** | <span class="text-green-400 font-bold text-xl">⭕️</span> | <span class="text-green-400 font-bold text-xl">⭕️</span> | <span class="text-red-400 font-bold text-xl">❌</span> |
 
 ---
-layout: default
+layout: 'default'
 ---
 
 # 結論：どのツールを選ぶべきか？
@@ -143,7 +141,7 @@ layout: default
 </div>
 
 ---
-layout: intro
+layout: 'intro'
 ---
 
 # ご清聴ありがとうございました
